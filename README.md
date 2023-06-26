@@ -17,6 +17,8 @@ A macro to generate new worlds faster for Minecraft Classic speedruns.
 
 3) Configure the script (Right click on it in File Explorer, open with Notepad, and look at the comments)
 
+![Screenshot 2023-06-25 212052](https://github.com/fourwastaken/Speedrunning-Macro/assets/129012041/bad050e8-ff7e-4dc0-8a15-0f4ff51449cc)
+
 4) Run the script
 
 5) Open Classic Minecraft in Firefox
