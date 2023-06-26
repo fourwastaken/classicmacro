@@ -10,16 +10,12 @@ A macro to generate new worlds faster for Minecraft Classic speedruns.
 
 ## ☂️ Instructions ##
 
-1) Head over to https://www.autohotkey.com/ and download AutoHotKey. (If you haven't already)
+1) Head over to https://www.autohotkey.com/ and install AutoHotKey. (If you haven't already)
 
-2) Download the script from releases
+2) Get the script from the releases
 
-3) Configure the script (Right click on it in File Explorer, open with Notepad, and look at the comments)
+3) Run the script and select your hotkeys
 
-![Screenshot 2023-06-26 123219](https://github.com/fourwastaken/Speedrunning-Macro/assets/129012041/07e7c5d3-2c81-4223-8419-a4326a1d58c1)
+4) Open Classic Minecraft in your web browser
 
-4) Run the script
-
-5) Open Classic Minecraft in your web browser
-
-6) Press whatever key you set to start resetting worlds (Must either be on start screen or escape screen)
+5) Press the hotkeys you set to start resetting worlds (Must either be on start screen or escape screen to reset world)
