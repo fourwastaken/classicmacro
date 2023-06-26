@@ -1,5 +1,5 @@
 ; Made by Bortress. on Discord
-; Version 0.1
+; Version 0.4
 
 #NoEnv
 SetBatchLines -1
@@ -7,9 +7,12 @@ SetBatchLines -1
 ; Create GUI window
 Gui +OwnDialogs
 Gui Add, Text,, Select hotkeys for the worlds:
-Gui Add, Hotkey, vSmallHotkey, Small world hotkey:
-Gui Add, Hotkey, vNormalHotkey, Normal world hotkey:
-Gui Add, Hotkey, vHugeHotkey, Huge world hotkey:
+Gui Add, Text,, Small world hotkey:
+Gui Add, Hotkey, vSmallHotkey, Small World
+Gui Add, Text,, Normal world hotkey:
+Gui Add, Hotkey, vNormalHotkey, Normal World
+Gui Add, Text,, Huge world hotkey:
+Gui Add, Hotkey, vHugeHotkey, Huge World
 Gui Add, Button, gSaveHotkeys, Save Hotkeys
 Gui Show, Center, Hotkey Selector
 
