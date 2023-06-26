@@ -18,4 +18,4 @@ A macro to generate new worlds faster for Minecraft Classic speedruns.
 
 4) Open Classic Minecraft in your web browser
 
-5) Press the hotkeys you set to start resetting worlds (Must either be on start screen or escape screen to reset world)
+5) Press the hotkeys you set to start resetting worlds (Must either be on start screen or game menu to reset world)
