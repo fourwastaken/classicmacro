@@ -6,7 +6,7 @@ Have any issues? Post them here!
 
 ## 👾 About ##
 
-A macro to generate new worlds faster for Minecraft Classic speedruns.
+A macro to automate world generation for Minecraft Classic speedruns.
 
 ## ☂️ Instructions ##
 
