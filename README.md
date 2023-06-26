@@ -1,4 +1,4 @@
-## Warning ##
+## Attention ##
 
 This script was made to work on Firefox! Who uses Chrome nowadays...
 
