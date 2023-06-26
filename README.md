@@ -20,6 +20,6 @@ A macro to generate new worlds faster for Minecraft Classic speedruns.
 
 4) Run the script
 
-5) Open Classic Minecraft in Firefox
+5) Open Classic Minecraft in your web browser
 
 6) Press whatever key you set to start resetting worlds (Must either be on start screen or escape screen)
