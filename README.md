@@ -1,8 +1,10 @@
 ## Warning ##
 
+This script was made to work on Firefox! Who uses Chrome nowadays...
+
 This macro may not work correctly because of your display/resolution. 
 However, the script should click at coordinates relative to your screen size.
-Have any issues? DM me on Discord ( Username: "Bortress." )
+Have any issues? Post an issue!
 
 ## Instructions ##
 
