@@ -1,3 +1,5 @@
+## Warning ##
+
 This macro may not work correctly because of your display/resolution. 
 However, the script should click at coordinates relative to your screen size.
 Have any issues? DM me on Discord ( Username: "Bortress." )
