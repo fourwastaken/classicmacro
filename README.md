@@ -10,10 +10,12 @@ Have any issues? Post an issue!
 
 1) Head over to https://www.autohotkey.com/ and download AutoHotKey. (If you haven't already)
 
-2) Configure the script (Right click on it in File Explorer, open with Notepad, and look at the comments)
+2) Download the script from releases
 
-3) Run the script
+3) Configure the script (Right click on it in File Explorer, open with Notepad, and look at the comments)
 
-4) Open Classic Minecraft in Firefox
+4) Run the script
 
-5) Press whatever key you set to start resetting worlds (Must either be on start screen or escape screen)
+5) Open Classic Minecraft in Firefox
+
+6) Press whatever key you set to start resetting worlds (Must either be on start screen or escape screen)
