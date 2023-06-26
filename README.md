@@ -1,12 +1,11 @@
 ## 🗿 Attention ##
 
-This script was made to work on Firefox! Who uses Chrome nowadays...
-
 This macro may not work correctly because of your display/resolution. 
 However, the script should click at coordinates relative to your screen size.
 Have any issues? Post them here!
 
 ## 👾 About ##
+
 A macro to generate new worlds faster for Minecraft Classic speedruns.
 
 ## ☂️ Instructions ##
