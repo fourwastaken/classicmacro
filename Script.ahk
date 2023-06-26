@@ -1,5 +1,5 @@
-﻿; Made by Bortress. on Discord
-; Created to work with the Firefox browser
+; Made by Bortress. on Discord
+; Version 0.2
 
 #NoEnv
 SetBatchLines -1
@@ -9,11 +9,11 @@ SetBatchLines -1
 $u::
     ClickAtCoordinates(1114, 687)
     Send, {Escape}
-    Sleep, 150
+    Sleep, 200
     Send, {Escape}
     ClickAtCoordinates(956, 468)
     ClickAtCoordinates(961, 447)
-    ClickAtCoordinates(987, 601)
+    Send, {Enter}
 Return
 
 ; Change "i" to whatever key you want to be
@@ -21,11 +21,11 @@ Return
 $i::
     ClickAtCoordinates(1114, 687)
     Send, {Escape}
-    Sleep, 150
+    Sleep, 200
     Send, {Escape}
     ClickAtCoordinates(956, 468)
     ClickAtCoordinates(961, 548)
-    ClickAtCoordinates(987, 601)
+    Send, {Enter}
 Return
 
 ; Change "o" to whatever key you want to be
@@ -33,11 +33,11 @@ Return
 $o::
     ClickAtCoordinates(1114, 687)
     Send, {Escape}
-    Sleep, 150
+    Sleep, 200
     Send, {Escape}
     ClickAtCoordinates(956, 468)
     ClickAtCoordinates(961, 646)
-    ClickAtCoordinates(987, 601)
+    Send, {Enter}
 Return
 
 ; Function to click at specified coordinates relative to the screen size
