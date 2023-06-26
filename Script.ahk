@@ -1,5 +1,5 @@
-; Made by Bortress. on Discord
-; Version 0.4
+; Made by Bortresso on Discord
+; Version 0.1
 
 #NoEnv
 SetBatchLines -1
