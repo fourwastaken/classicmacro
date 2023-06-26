@@ -1,12 +1,36 @@
 ; Made by Bortress. on Discord
-; Version 0.2
+; Version 0.1
 
 #NoEnv
 SetBatchLines -1
 
-; Change "u" to whatever key you want to be
-; This is a small world
-$u::
+; Create GUI window
+Gui +OwnDialogs
+Gui Add, Text,, Select hotkeys for the worlds:
+Gui Add, Hotkey, vSmallHotkey, Small world hotkey:
+Gui Add, Hotkey, vNormalHotkey, Normal world hotkey:
+Gui Add, Hotkey, vHugeHotkey, Huge world hotkey:
+Gui Add, Button, gSaveHotkeys, Save Hotkeys
+Gui Show, Center, Hotkey Selector
+
+return
+
+SaveHotkeys:
+    Gui Submit, NoHide
+    
+    ; Small world hotkey
+    Hotkey, %SmallHotkey%, SmallWorldHotkey
+    
+    ; Normal world hotkey
+    Hotkey, %NormalHotkey%, NormalWorldHotkey
+    
+    ; Huge world hotkey
+    Hotkey, %HugeHotkey%, HugeWorldHotkey
+    
+    MsgBox, Hotkeys have been saved.
+return
+
+SmallWorldHotkey:
     ClickAtCoordinates(1114, 687)
     Send, {Escape}
     Sleep, 200
@@ -14,11 +38,9 @@ $u::
     ClickAtCoordinates(956, 468)
     ClickAtCoordinates(961, 447)
     Send, {Enter}
-Return
+return
 
-; Change "i" to whatever key you want to be
-; This is a normal world
-$i::
+NormalWorldHotkey:
     ClickAtCoordinates(1114, 687)
     Send, {Escape}
     Sleep, 200
@@ -26,11 +48,9 @@ $i::
     ClickAtCoordinates(956, 468)
     ClickAtCoordinates(961, 548)
     Send, {Enter}
-Return
+return
 
-; Change "o" to whatever key you want to be
-; This is a huge world
-$o::
+HugeWorldHotkey:
     ClickAtCoordinates(1114, 687)
     Send, {Escape}
     Sleep, 200
@@ -38,7 +58,7 @@ $o::
     ClickAtCoordinates(956, 468)
     ClickAtCoordinates(961, 646)
     Send, {Enter}
-Return
+return
 
 ; Function to click at specified coordinates relative to the screen size
 ClickAtCoordinates(x, y) {
