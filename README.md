@@ -14,6 +14,6 @@ Have any issues? Post an issue!
 
 3) Run the script
 
-4) Open Classic Minecraft in the web
+4) Open Classic Minecraft in Firefox
 
 5) Press whatever key you set to start resetting worlds (Must either be on start screen or escape screen)
