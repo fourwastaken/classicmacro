@@ -1,23 +1,21 @@
-## Attention ##
+## 🔔 Attention 🔔 ##
 
-This macro may not work correctly because of your display/resolution. 
-However, the script should click at coordinates relative to your screen size.
-Have any issues? Post them here!
+Please note that this macro may not function correctly depending on your display/resolution. However, the script is designed to click at coordinates relative to your screen size. Encountering any issues? Post them here!
 
-## About ##
+## 🚀 About 🚀 ##
 
-A macro to automate world generation for Minecraft Classic speedruns.
+Automate world generation for Minecraft Classic speedruns with this efficient macro.
 
-## Instructions ##
+## 📜 Instructions 📜 ##
 
-1) Head over to https://www.autohotkey.com/ and install AutoHotKey. (If you haven't already)
+1) Go to https://www.autohotkey.com/ and install AutoHotKey if you haven't already.
 
-2) Get the script from the releases
+2) Download the script from the releases section.
 
-3) Run the script and select your hotkeys
+3) Run the script and configure your preferred hotkeys.
 
-4) Click "Save Hotkeys"
+4) Click "Save Hotkeys."
 
-5) Open Classic Minecraft in your web browser
+5) Open Classic Minecraft in your web browser.
 
-6) Press the hotkeys you set to start resetting worlds (Must either be on start screen or game menu to reset world)
+6) Use the hotkeys you set to initiate world resetting. (Ensure you're on the start screen or game menu to reset the world)
