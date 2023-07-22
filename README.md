@@ -1,14 +1,14 @@
-## 🗿 Attention ##
+## Attention ##
 
 This macro may not work correctly because of your display/resolution. 
 However, the script should click at coordinates relative to your screen size.
 Have any issues? Post them here!
 
-## 👾 About ##
+## About ##
 
 A macro to automate world generation for Minecraft Classic speedruns.
 
-## ☂️ Instructions ##
+## Instructions ##
 
 1) Head over to https://www.autohotkey.com/ and install AutoHotKey. (If you haven't already)
 
