@@ -1,4 +1,4 @@
-; Made by Bortresso on Discord
+; Made by Four
 ; Version 0.1
 
 #NoEnv
